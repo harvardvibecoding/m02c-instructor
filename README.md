@@ -1,3 +1,1 @@
-# m02d
-
-Modernized app styling. Starting point for branding iteration.
+Instructor output for modernized styling, created by AI.
